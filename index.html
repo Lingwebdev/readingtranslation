@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Vocabulary Matching Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>English Vocabulary Matching Game</h1>
+            <div id="progress">Sentence 1</div>
+        </header>
+
+        <section class="sentence-section">
+            <h2>English Sentence</h2>
+            <div id="englishSentence" class="english-sentence">
+                Loading...
+            </div>
+        </section>
+
+        <section class="vocabulary-section">
+            <h2>Vocabulary</h2>
+
+            <h3>Words</h3>
+            <div id="wordList" class="vocabulary-list"></div>
+
+            <h3>Phrases</h3>
+            <div id="phraseList" class="vocabulary-list"></div>
+        </section>
+
+        <section class="matching-section">
+            <h2>Match the English with Chinese</h2>
+            <p class="instruction">
+                Click an English item, then click its Chinese translation.
+            </p>
+
+            <div id="matchingArea" class="matching-area">
+
+                <svg id="connectionLines"></svg>
+
+                <div class="matching-column">
+                    <h3>English</h3>
+                    <div id="englishItems"></div>
+                </div>
+
+                <div class="matching-column">
+                    <h3>Chinese</h3>
+                    <div id="chineseItems"></div>
+                </div>
+
+            </div>
+        </section>
+
+        <div id="resultMessage"></div>
+
+        <div class="button-area">
+            <button id="newRoundButton">New Round</button>
+            <button id="checkAnswersButton">Check Answers</button>
+        </div>
+
+        <div id="sentenceTranslation" class="sentence-translation">
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

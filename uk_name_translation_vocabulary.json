@@ -1,0 +1,1352 @@
+{
+  "title": "What's in a Name? — Sentence-by-sentence Chinese Translation and Vocabulary",
+  "language": {
+    "source": "English",
+    "target": "Chinese (Simplified)"
+  },
+  "structure_note": "Each sentence contains its Chinese translation first, followed by vocabulary items in their order of appearance. Phrase entries are meaningful expressions; word entries are individual vocabulary items. Phrase and word entries may overlap.",
+  "sentences": [
+    {
+      "translation": "英国（the United Kingdom）、大不列颠（Great Britain）、不列颠（Britain）和英格兰（England）——许多人都分不清这些不同名称的含义。",
+      "english": "The United Kingdom, Great Britain, Britain, England – many people are confused by what these different names mean?",
+      "vocabulary": [
+        [
+          "The United Kingdom",
+          "联合王国；英国",
+          "phrase"
+        ],
+        [
+          "Great Britain",
+          "大不列颠",
+          "phrase"
+        ],
+        [
+          "Britain",
+          "不列颠；英国",
+          "word"
+        ],
+        [
+          "England",
+          "英格兰",
+          "word"
+        ],
+        [
+          "many people",
+          "许多人",
+          "phrase"
+        ],
+        [
+          "are confused by",
+          "对……感到困惑；分不清",
+          "phrase"
+        ],
+        [
+          "what ... mean",
+          "……是什么意思",
+          "phrase"
+        ],
+        [
+          "different",
+          "不同的",
+          "word"
+        ],
+        [
+          "names",
+          "名称；名字",
+          "word"
+        ]
+      ]
+    },
+    {
+      "translation": "那么，它们之间究竟有什么区别呢？",
+      "english": "So what is the difference between them, if any?",
+      "vocabulary": [
+        [
+          "So",
+          "那么；所以",
+          "word"
+        ],
+        [
+          "what is ...",
+          "……是什么",
+          "phrase"
+        ],
+        [
+          "the difference between",
+          "……之间的区别",
+          "phrase"
+        ],
+        [
+          "them",
+          "它们；他们",
+          "word"
+        ],
+        [
+          "if any",
+          "如果有的话；究竟是否存在",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "了解一点英国历史，就能帮助你解开这个谜题。",
+      "english": "Getting to know a little bit about British history will help you solve this puzzle.",
+      "vocabulary": [
+        [
+          "Getting to know",
+          "了解；认识",
+          "phrase"
+        ],
+        [
+          "a little bit",
+          "一点儿",
+          "phrase"
+        ],
+        [
+          "about",
+          "关于",
+          "word"
+        ],
+        [
+          "British history",
+          "英国历史",
+          "phrase"
+        ],
+        [
+          "will help you",
+          "将帮助你",
+          "phrase"
+        ],
+        [
+          "solve",
+          "解决；解开",
+          "word"
+        ],
+        [
+          "this puzzle",
+          "这个谜题",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "在16世纪，邻近的威尔士被并入英格兰王国。",
+      "english": "In the 16th century, the nearby country of Wales was joined to the Kingdom of England.",
+      "vocabulary": [
+        [
+          "In the 16th century",
+          "在16世纪",
+          "phrase"
+        ],
+        [
+          "nearby",
+          "附近的；邻近的",
+          "word"
+        ],
+        [
+          "country",
+          "国家",
+          "word"
+        ],
+        [
+          "Wales",
+          "威尔士",
+          "word"
+        ],
+        [
+          "was joined to",
+          "被并入；与……合并",
+          "phrase"
+        ],
+        [
+          "the Kingdom of England",
+          "英格兰王国",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "后来，在18世纪，苏格兰也加入其中，由此建立了大不列颠王国。",
+      "english": "Later, in the 18th century, the country Scotland was joined to create the Kingdom of Great Britain.",
+      "vocabulary": [
+        [
+          "Later",
+          "后来；之后",
+          "word"
+        ],
+        [
+          "in the 18th century",
+          "在18世纪",
+          "phrase"
+        ],
+        [
+          "the country Scotland",
+          "苏格兰这个国家",
+          "phrase"
+        ],
+        [
+          "was joined",
+          "被合并；加入",
+          "phrase"
+        ],
+        [
+          "to create",
+          "从而建立；为了创建",
+          "phrase"
+        ],
+        [
+          "the Kingdom of Great Britain",
+          "大不列颠王国",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "到了19世纪，爱尔兰王国也被并入，形成了大不列颠及爱尔兰联合王国。",
+      "english": "In the 19th century, the Kingdom of Ireland was added to create the United Kingdom of Great Britain and Ireland.",
+      "vocabulary": [
+        [
+          "In the 19th century",
+          "在19世纪",
+          "phrase"
+        ],
+        [
+          "the Kingdom of Ireland",
+          "爱尔兰王国",
+          "phrase"
+        ],
+        [
+          "was added",
+          "被加入；被并入",
+          "phrase"
+        ],
+        [
+          "to create",
+          "从而形成；以建立",
+          "phrase"
+        ],
+        [
+          "the United Kingdom of Great Britain and Ireland",
+          "大不列颠及爱尔兰联合王国",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "最后，在20世纪，爱尔兰南部脱离了英国，最终形成了我们今天所知道的正式国名——大不列颠及北爱尔兰联合王国。",
+      "english": "Finally, in the 20th century, the southern part of Ireland broke away from the UK, which resulted in the full name we have today: the United Kingdom of Great Britain and Northern Ireland.",
+      "vocabulary": [
+        [
+          "Finally",
+          "最后；最终",
+          "word"
+        ],
+        [
+          "in the 20th century",
+          "在20世纪",
+          "phrase"
+        ],
+        [
+          "the southern part of",
+          "……的南部",
+          "phrase"
+        ],
+        [
+          "Ireland",
+          "爱尔兰",
+          "word"
+        ],
+        [
+          "broke away from",
+          "脱离；脱离……而独立",
+          "phrase"
+        ],
+        [
+          "the UK",
+          "英国；联合王国",
+          "phrase"
+        ],
+        [
+          "which resulted in",
+          "这导致了；由此形成",
+          "phrase"
+        ],
+        [
+          "the full name",
+          "全称；正式名称",
+          "phrase"
+        ],
+        [
+          "we have today",
+          "我们今天使用的",
+          "phrase"
+        ],
+        [
+          "the United Kingdom of Great Britain and Northern Ireland",
+          "大不列颠及北爱尔兰联合王国",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "大多数人通常使用它的简称：“联合王国”或“英国”（the UK）。",
+      "english": "Most people just use the shortened name: “the United Kingdom” or “the UK”.",
+      "vocabulary": [
+        [
+          "Most people",
+          "大多数人",
+          "phrase"
+        ],
+        [
+          "just",
+          "只是；通常（此处表示简化表达）",
+          "word"
+        ],
+        [
+          "use",
+          "使用",
+          "word"
+        ],
+        [
+          "the shortened name",
+          "简称",
+          "phrase"
+        ],
+        [
+          "or",
+          "或者",
+          "word"
+        ]
+      ]
+    },
+    {
+      "translation": "来自英国的人被称为“英国人”（British），因此，英国也常常被称为不列颠或大不列颠。",
+      "english": "People from the UK are called “British”, which means the UK is also often referred to as Britain or Great Britain.",
+      "vocabulary": [
+        [
+          "People from the UK",
+          "来自英国的人",
+          "phrase"
+        ],
+        [
+          "are called",
+          "被称为；被叫作",
+          "phrase"
+        ],
+        [
+          "British",
+          "英国人；英国的",
+          "word"
+        ],
+        [
+          "which means",
+          "这意味着；也就是说",
+          "phrase"
+        ],
+        [
+          "also",
+          "也",
+          "word"
+        ],
+        [
+          "often",
+          "经常；常常",
+          "word"
+        ],
+        [
+          "be referred to as",
+          "被称作；被称为",
+          "phrase"
+        ],
+        [
+          "Britain",
+          "不列颠；英国",
+          "word"
+        ],
+        [
+          "Great Britain",
+          "大不列颠",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "组成英国的四个国家在某些方面相互合作。",
+      "english": "The four countries that belong to the United Kingdom work together in some areas.",
+      "vocabulary": [
+        [
+          "The four countries",
+          "四个国家",
+          "phrase"
+        ],
+        [
+          "that belong to",
+          "属于……的",
+          "phrase"
+        ],
+        [
+          "the United Kingdom",
+          "联合王国；英国",
+          "phrase"
+        ],
+        [
+          "work together",
+          "共同合作；一起工作",
+          "phrase"
+        ],
+        [
+          "in some areas",
+          "在某些方面；在一些领域",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "它们使用同一面国旗，这面旗帜被称为“米字旗”（Union Jack），同时也拥有共同的货币和军事防御体系。",
+      "english": "They use the same flag, known as the Union Jack, as well as share the same currency and military defence.",
+      "vocabulary": [
+        [
+          "They",
+          "它们",
+          "word"
+        ],
+        [
+          "use",
+          "使用",
+          "word"
+        ],
+        [
+          "the same flag",
+          "同一面国旗",
+          "phrase"
+        ],
+        [
+          "known as",
+          "被称为；以……闻名",
+          "phrase"
+        ],
+        [
+          "the Union Jack",
+          "英国国旗；米字旗",
+          "phrase"
+        ],
+        [
+          "as well as",
+          "也；以及；除了……还",
+          "phrase"
+        ],
+        [
+          "share",
+          "共享；共同拥有",
+          "word"
+        ],
+        [
+          "the same currency",
+          "相同的货币；共同的货币",
+          "phrase"
+        ],
+        [
+          "military defence",
+          "军事防御",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "然而，它们之间也存在一些差异。",
+      "english": "However, they also have some differences.",
+      "vocabulary": [
+        [
+          "However",
+          "然而；不过",
+          "word"
+        ],
+        [
+          "also",
+          "也",
+          "word"
+        ],
+        [
+          "have",
+          "有；存在",
+          "word"
+        ],
+        [
+          "some differences",
+          "一些差异",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "例如，英格兰、威尔士、苏格兰和北爱尔兰都有各自不同的教育制度和法律制度。",
+      "english": "For example, England, Wales, Scotland, and Northern Ireland all have different education systems and legal systems.",
+      "vocabulary": [
+        [
+          "For example",
+          "例如",
+          "phrase"
+        ],
+        [
+          "England",
+          "英格兰",
+          "word"
+        ],
+        [
+          "Wales",
+          "威尔士",
+          "word"
+        ],
+        [
+          "Scotland",
+          "苏格兰",
+          "word"
+        ],
+        [
+          "Northern Ireland",
+          "北爱尔兰",
+          "phrase"
+        ],
+        [
+          "all have",
+          "都拥有；都有",
+          "phrase"
+        ],
+        [
+          "different",
+          "不同的",
+          "word"
+        ],
+        [
+          "education systems",
+          "教育制度；教育体系",
+          "phrase"
+        ],
+        [
+          "and",
+          "和；以及",
+          "word"
+        ],
+        [
+          "legal systems",
+          "法律制度；司法体系",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "它们也有各自的传统，例如不同的国家纪念日和民族特色美食。",
+      "english": "They also have their own traditions, like their own national days and national dishes.",
+      "vocabulary": [
+        [
+          "They",
+          "它们",
+          "word"
+        ],
+        [
+          "also",
+          "也",
+          "word"
+        ],
+        [
+          "their own",
+          "它们自己的",
+          "phrase"
+        ],
+        [
+          "traditions",
+          "传统",
+          "word"
+        ],
+        [
+          "like",
+          "例如；像",
+          "word"
+        ],
+        [
+          "national days",
+          "国家纪念日；国庆日",
+          "phrase"
+        ],
+        [
+          "national dishes",
+          "民族特色菜肴；传统美食",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "甚至在世界杯等足球赛事中，它们也各自拥有自己的足球代表队！",
+      "english": "And they even have their own football teams for competitions like the World Cup!",
+      "vocabulary": [
+        [
+          "And",
+          "而且；并且",
+          "word"
+        ],
+        [
+          "even",
+          "甚至",
+          "word"
+        ],
+        [
+          "have",
+          "拥有",
+          "word"
+        ],
+        [
+          "their own",
+          "它们自己的",
+          "phrase"
+        ],
+        [
+          "football teams",
+          "足球队",
+          "phrase"
+        ],
+        [
+          "for competitions",
+          "参加比赛；用于赛事",
+          "phrase"
+        ],
+        [
+          "like",
+          "例如；像",
+          "word"
+        ],
+        [
+          "the World Cup",
+          "世界杯",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "英国拥有悠久而有趣的历史，探索这段历史能够帮助你更深入地了解这个国家。",
+      "english": "The United Kingdom has a long and interesting history to explore, which can help you understand much more about the country and its traditions.",
+      "vocabulary": [
+        [
+          "The United Kingdom",
+          "联合王国；英国",
+          "phrase"
+        ],
+        [
+          "has",
+          "拥有；有",
+          "word"
+        ],
+        [
+          "a long and interesting history",
+          "一段悠久而有趣的历史",
+          "phrase"
+        ],
+        [
+          "to explore",
+          "值得探索；去探索",
+          "phrase"
+        ],
+        [
+          "which can help you",
+          "这能够帮助你",
+          "phrase"
+        ],
+        [
+          "understand",
+          "理解；了解",
+          "word"
+        ],
+        [
+          "much more about",
+          "更多地了解；更深入地了解",
+          "phrase"
+        ],
+        [
+          "the country",
+          "这个国家",
+          "phrase"
+        ],
+        [
+          "and its traditions",
+          "以及它的传统",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "无论你走到英国的哪个地方，几乎都能发现四个不同民族在历史上不同时期统治这片土地所留下的痕迹。",
+      "english": "Almost everywhere you go in the UK, you will be surrounded by evidence of four different groups of people who took over at different times throughout history.",
+      "vocabulary": [
+        [
+          "Almost everywhere",
+          "几乎到处；几乎每个地方",
+          "phrase"
+        ],
+        [
+          "you go",
+          "你所到之处",
+          "phrase"
+        ],
+        [
+          "in the UK",
+          "在英国",
+          "phrase"
+        ],
+        [
+          "will be surrounded by",
+          "将被……包围；到处都是",
+          "phrase"
+        ],
+        [
+          "evidence of",
+          "……的证据；……留下的痕迹",
+          "phrase"
+        ],
+        [
+          "four different groups of people",
+          "四个不同的民族群体",
+          "phrase"
+        ],
+        [
+          "who took over",
+          "曾经接管；曾经统治",
+          "phrase"
+        ],
+        [
+          "at different times",
+          "在不同时期",
+          "phrase"
+        ],
+        [
+          "throughout history",
+          "纵观历史；在整个历史过程中",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "第一个民族是罗马人，他们在公元1世纪来到这里。",
+      "english": "The first group, the Romans, came in the first century.",
+      "vocabulary": [
+        [
+          "The first group",
+          "第一个群体；第一批人",
+          "phrase"
+        ],
+        [
+          "the Romans",
+          "罗马人",
+          "phrase"
+        ],
+        [
+          "came",
+          "来到",
+          "word"
+        ],
+        [
+          "in the first century",
+          "在公元1世纪",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "他们取得的重大成就包括修建城镇和道路。",
+      "english": "Some of their great achievements included building towns and roads.",
+      "vocabulary": [
+        [
+          "Some of",
+          "……中的一些",
+          "phrase"
+        ],
+        [
+          "their",
+          "他们的",
+          "word"
+        ],
+        [
+          "great achievements",
+          "重大成就",
+          "phrase"
+        ],
+        [
+          "included",
+          "包括",
+          "word"
+        ],
+        [
+          "building",
+          "建造；修建",
+          "word"
+        ],
+        [
+          "towns",
+          "城镇",
+          "word"
+        ],
+        [
+          "and",
+          "和",
+          "word"
+        ],
+        [
+          "roads",
+          "道路",
+          "word"
+        ]
+      ]
+    },
+    {
+      "translation": "接下来，盎格鲁-撒克逊人在公元5世纪到来。",
+      "english": "Next, the Anglo-Saxons arrived in the fifth century.",
+      "vocabulary": [
+        [
+          "Next",
+          "接下来；其次",
+          "word"
+        ],
+        [
+          "the Anglo-Saxons",
+          "盎格鲁-撒克逊人",
+          "phrase"
+        ],
+        [
+          "arrived",
+          "到达；到来",
+          "word"
+        ],
+        [
+          "in the fifth century",
+          "在公元5世纪",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "他们奠定了英语语言的基础，并改变了人们建造房屋的方式。",
+      "english": "They introduced the beginnings of the English language, and changed the way people built houses.",
+      "vocabulary": [
+        [
+          "They",
+          "他们",
+          "word"
+        ],
+        [
+          "introduced",
+          "引入；带来了",
+          "word"
+        ],
+        [
+          "the beginnings of",
+          "……的开端；……的雏形",
+          "phrase"
+        ],
+        [
+          "the English language",
+          "英语",
+          "phrase"
+        ],
+        [
+          "and",
+          "并且",
+          "word"
+        ],
+        [
+          "changed",
+          "改变了",
+          "word"
+        ],
+        [
+          "the way",
+          "方式；方法",
+          "phrase"
+        ],
+        [
+          "people",
+          "人们",
+          "word"
+        ],
+        [
+          "built houses",
+          "建造房屋",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "维京人在公元8世纪到来，他们留下了大量新的词汇，以及英国许多地方的地名。",
+      "english": "The Vikings came in the eighth century, left behind lots of new vocabulary, and also the names of many locations across the UK.",
+      "vocabulary": [
+        [
+          "The Vikings",
+          "维京人",
+          "phrase"
+        ],
+        [
+          "came",
+          "到来",
+          "word"
+        ],
+        [
+          "in the eighth century",
+          "在公元8世纪",
+          "phrase"
+        ],
+        [
+          "left behind",
+          "留下",
+          "phrase"
+        ],
+        [
+          "lots of",
+          "大量的；许多",
+          "phrase"
+        ],
+        [
+          "new vocabulary",
+          "新词汇",
+          "phrase"
+        ],
+        [
+          "and also",
+          "而且还；以及",
+          "phrase"
+        ],
+        [
+          "the names of",
+          "……的名称",
+          "phrase"
+        ],
+        [
+          "many locations",
+          "许多地点；许多地方",
+          "phrase"
+        ],
+        [
+          "across the UK",
+          "遍布英国各地",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "最后一个民族是诺曼人。",
+      "english": "The last group were the Normans.",
+      "vocabulary": [
+        [
+          "The last group",
+          "最后一个群体；最后一批人",
+          "phrase"
+        ],
+        [
+          "were",
+          "是（are的过去式）",
+          "word"
+        ],
+        [
+          "the Normans",
+          "诺曼人",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "他们在11世纪著名的黑斯廷斯战役之后征服了英格兰。",
+      "english": "They conquered England after the well-known Battle of Hastings in the 11th century.",
+      "vocabulary": [
+        [
+          "They",
+          "他们",
+          "word"
+        ],
+        [
+          "conquered",
+          "征服了",
+          "word"
+        ],
+        [
+          "England",
+          "英格兰",
+          "word"
+        ],
+        [
+          "after",
+          "在……之后",
+          "word"
+        ],
+        [
+          "well-known",
+          "著名的；众所周知的",
+          "word"
+        ],
+        [
+          "the Battle of Hastings",
+          "黑斯廷斯战役",
+          "phrase"
+        ],
+        [
+          "in the 11th century",
+          "在11世纪",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "诺曼人在英格兰各地修建了许多城堡，并对法律制度进行了改革。",
+      "english": "They had castles built all around England, and made changes to the legal system.",
+      "vocabulary": [
+        [
+          "They",
+          "他们",
+          "word"
+        ],
+        [
+          "had ... built",
+          "让人建造；修建了",
+          "phrase"
+        ],
+        [
+          "castles",
+          "城堡",
+          "word"
+        ],
+        [
+          "all around England",
+          "遍布英格兰各地",
+          "phrase"
+        ],
+        [
+          "and",
+          "并且",
+          "word"
+        ],
+        [
+          "made changes to",
+          "对……作出改变；改革",
+          "phrase"
+        ],
+        [
+          "the legal system",
+          "法律制度",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "由于诺曼人来自法国，因此，许多法语词汇也逐渐进入了英语。",
+      "english": "The Normans were French, so many French words slowly entered into the English language.",
+      "vocabulary": [
+        [
+          "The Normans",
+          "诺曼人",
+          "phrase"
+        ],
+        [
+          "were French",
+          "是法国人；来自法国",
+          "phrase"
+        ],
+        [
+          "so",
+          "因此；所以",
+          "word"
+        ],
+        [
+          "many",
+          "许多",
+          "word"
+        ],
+        [
+          "French words",
+          "法语词汇",
+          "phrase"
+        ],
+        [
+          "slowly",
+          "逐渐地；慢慢地",
+          "word"
+        ],
+        [
+          "entered into",
+          "进入；融入",
+          "phrase"
+        ],
+        [
+          "the English language",
+          "英语",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "关于英国有趣的历史和文化，还有许多值得我们学习的内容。",
+      "english": "There is so much more to learn about the interesting history and culture of the United Kingdom.",
+      "vocabulary": [
+        [
+          "There is",
+          "有；存在",
+          "phrase"
+        ],
+        [
+          "so much more",
+          "还有多得多的内容",
+          "phrase"
+        ],
+        [
+          "to learn about",
+          "值得了解；可以学习",
+          "phrase"
+        ],
+        [
+          "the interesting history and culture",
+          "有趣的历史和文化",
+          "phrase"
+        ],
+        [
+          "of the United Kingdom",
+          "英国的",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "了解这个国家的历史，会让你的英国之旅更加愉快。",
+      "english": "Studying the history of the country will make your visit much more enjoyable.",
+      "vocabulary": [
+        [
+          "Studying",
+          "学习；研究",
+          "word"
+        ],
+        [
+          "the history of",
+          "……的历史",
+          "phrase"
+        ],
+        [
+          "the country",
+          "这个国家",
+          "phrase"
+        ],
+        [
+          "will make",
+          "将使；会让",
+          "phrase"
+        ],
+        [
+          "your visit",
+          "你的访问；你的旅行",
+          "phrase"
+        ],
+        [
+          "much more enjoyable",
+          "更加愉快",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "首都伦敦是一个很好的起点，因为它是一座古老的港口城市，其历史可以追溯到罗马时代。",
+      "english": "The capital city London is a great place to start, as it is an ancient port city that has a history dating all the way back to Roman times.",
+      "vocabulary": [
+        [
+          "The capital city",
+          "首都城市",
+          "phrase"
+        ],
+        [
+          "London",
+          "伦敦",
+          "word"
+        ],
+        [
+          "a great place to start",
+          "一个很好的起点",
+          "phrase"
+        ],
+        [
+          "as",
+          "因为；由于",
+          "word"
+        ],
+        [
+          "an ancient port city",
+          "一座古老的港口城市",
+          "phrase"
+        ],
+        [
+          "that has a history",
+          "它有着一段历史",
+          "phrase"
+        ],
+        [
+          "dating back to",
+          "追溯到",
+          "phrase"
+        ],
+        [
+          "all the way back to",
+          "一直追溯到",
+          "phrase"
+        ],
+        [
+          "Roman times",
+          "罗马时代",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "那里有数不胜数的历史遗迹值得探索，还有许多博物馆，收藏着来自英国各地的古代文物。",
+      "english": "There are countless historic sites to explore, and lots of museums with ancient relics from all over the UK.",
+      "vocabulary": [
+        [
+          "There are",
+          "有；存在",
+          "phrase"
+        ],
+        [
+          "countless",
+          "数不胜数的",
+          "word"
+        ],
+        [
+          "historic sites",
+          "历史遗迹；历史古迹",
+          "phrase"
+        ],
+        [
+          "to explore",
+          "值得探索；供人参观",
+          "phrase"
+        ],
+        [
+          "and",
+          "以及；而且",
+          "word"
+        ],
+        [
+          "lots of",
+          "许多；大量的",
+          "phrase"
+        ],
+        [
+          "museums",
+          "博物馆",
+          "word"
+        ],
+        [
+          "with",
+          "带有；拥有",
+          "word"
+        ],
+        [
+          "ancient relics",
+          "古代文物；古物",
+          "phrase"
+        ],
+        [
+          "from all over",
+          "来自……各地",
+          "phrase"
+        ],
+        [
+          "the UK",
+          "英国",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "英国是一个将历史与现代文化巧妙融合的迷人国度，既保留了古老的传统，也拥有新的文化习俗。",
+      "english": "The UK is a fascinating mix of history and modern culture, with both new and old traditions.",
+      "vocabulary": [
+        [
+          "The UK",
+          "英国；联合王国",
+          "phrase"
+        ],
+        [
+          "is",
+          "是",
+          "word"
+        ],
+        [
+          "a fascinating mix of",
+          "……的迷人融合；……的精彩结合",
+          "phrase"
+        ],
+        [
+          "history",
+          "历史",
+          "word"
+        ],
+        [
+          "and",
+          "和",
+          "word"
+        ],
+        [
+          "modern culture",
+          "现代文化",
+          "phrase"
+        ],
+        [
+          "with both ... and ...",
+          "既有……又有……",
+          "phrase"
+        ],
+        [
+          "new and old traditions",
+          "新旧传统",
+          "phrase"
+        ]
+      ]
+    },
+    {
+      "translation": "如果你留心观察，就会惊喜地发现，你能够同时看到它的过去与现在。",
+      "english": "If you keep your eyes open, you will be surprised to find that you can see both its past and its present.",
+      "vocabulary": [
+        [
+          "If",
+          "如果",
+          "word"
+        ],
+        [
+          "keep your eyes open",
+          "留心观察；保持警觉",
+          "phrase"
+        ],
+        [
+          "you will be surprised to find",
+          "你会惊喜地发现",
+          "phrase"
+        ],
+        [
+          "that",
+          "……（引导宾语从句）",
+          "word"
+        ],
+        [
+          "you can see",
+          "你能够看到",
+          "phrase"
+        ],
+        [
+          "both ... and ...",
+          "既……又……；两者都",
+          "phrase"
+        ],
+        [
+          "its past",
+          "它的过去",
+          "phrase"
+        ],
+        [
+          "and its present",
+          "以及它的现在",
+          "phrase"
+        ]
+      ]
+    }
+  ]
+}
